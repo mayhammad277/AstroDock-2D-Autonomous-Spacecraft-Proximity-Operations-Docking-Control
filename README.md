@@ -43,27 +43,23 @@ $$F_{repulsion} = \eta \left( \frac{1}{\rho} - \frac{1}{\rho_0} \right) \frac{1}
 ```bash
 pip install gymnasium numpy matplotlib
 # Ensure ffmpeg is installed on your system for video saving
-
-
-
-
-
+```
 
 
 Running Simulations
 The repository is organized by control complexity:
 
-Basic Docking: python spacecraft_way_point_dock_control.py
+- Basic Docking: python spacecraft_way_point_dock_control.py
 
-Smart Pathing: python spacecraft_way_point_dock_control2.py
+- Smart Pathing: python spacecraft_way_point_dock_control2.py
 
-Potential Field Avoidance: python spacecraft_way_point_dock_control3.py
+- Potential Field Avoidance: python spacecraft_way_point_dock_control3.py
 
 📊 Visualizing Results
 The scripts generate animations showing the chaser (Red) docking with the target (Grey).
 
-Blue/Cyan: Long-range approach.
+- Blue/Cyan: Long-range approach.
 
-Green: Final alignment.
+- Green: Final alignment.
 
-Gold: Precision docking insertion
+- Gold: Precision docking insertion

@@ -64,19 +64,61 @@ The scripts generate animations showing the chaser (Red) docking with the target
 
 - Red: Precision docking insertion
 
-<img width="789" height="804" alt="image" src="https://github.com/user-attachments/assets/a21f2be3-7dc5-4d76-bec5-f43191540b13" />
+
+
+
+<img width="770" height="625" alt="image" src="https://github.com/user-attachments/assets/458c11ba-4113-4ae6-999c-74c8e0dd6ce5" />
 
 
 
 
 
 
-<img width="791" height="780" alt="image" src="https://github.com/user-attachments/assets/fa842492-7c0f-484b-b922-02d7832e0736" />
 
 
 
 
 
-<img width="776" height="755" alt="image" src="https://github.com/user-attachments/assets/8da4badd-a060-419b-8db6-936191ab2db0" />
+
+
+
+
+
+
+<img width="753" height="547" alt="image" src="https://github.com/user-attachments/assets/a03d2d55-9b50-4216-983e-dbddc48e70b3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

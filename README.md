@@ -67,7 +67,37 @@ The scripts generate animations showing the chaser (Red) docking with the target
 
 
 
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/458c11ba-4113-4ae6-999c-74c8e0dd6ce5" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/458c11ba-4113-4ae6-999c-74c8e0dd6ce5" />
+
+
+
+
+
+
+
+
+
+<!-- -->
+
+
+
+
+
+
+
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a03d2d55-9b50-4216-983e-dbddc48e70b3" />
+
+
+
+
+
+
+
+
+
+
+<!-- -->
 
 
 
@@ -80,35 +110,7 @@ The scripts generate animations showing the chaser (Red) docking with the target
 
 
 
-
-
-
-
-
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a03d2d55-9b50-4216-983e-dbddc48e70b3" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/14a0417b-a1c0-4297-af1f-e348a2d106c0" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/14a0417b-a1c0-4297-af1f-e348a2d106c0" />
 
 
 

@@ -67,7 +67,7 @@ The scripts generate animations showing the chaser (Red) docking with the target
 
 
 
-<img width="770" height="625" alt="image" src="https://github.com/user-attachments/assets/458c11ba-4113-4ae6-999c-74c8e0dd6ce5" />
+<img width="729" height="625" alt="image" src="https://github.com/user-attachments/assets/458c11ba-4113-4ae6-999c-74c8e0dd6ce5" />
 
 
 
@@ -85,7 +85,7 @@ The scripts generate animations showing the chaser (Red) docking with the target
 
 
 
-<img width="753" height="547" alt="image" src="https://github.com/user-attachments/assets/a03d2d55-9b50-4216-983e-dbddc48e70b3" />
+<img width="729" height="547" alt="image" src="https://github.com/user-attachments/assets/a03d2d55-9b50-4216-983e-dbddc48e70b3" />
 
 
 

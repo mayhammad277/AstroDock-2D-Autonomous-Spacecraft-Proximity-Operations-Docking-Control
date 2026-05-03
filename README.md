@@ -60,6 +60,23 @@ The scripts generate animations showing the chaser (Red) docking with the target
 
 - Blue/Cyan: Long-range approach.
 
-- Green: Final alignment.
+- Gold: Final alignment.
 
-- Gold: Precision docking insertion
+- Red: Precision docking insertion
+
+<img width="789" height="804" alt="image" src="https://github.com/user-attachments/assets/a21f2be3-7dc5-4d76-bec5-f43191540b13" />
+
+
+
+
+
+
+<img width="791" height="780" alt="image" src="https://github.com/user-attachments/assets/fa842492-7c0f-484b-b922-02d7832e0736" />
+
+
+
+
+
+<img width="776" height="755" alt="image" src="https://github.com/user-attachments/assets/8da4badd-a060-419b-8db6-936191ab2db0" />
+
+
